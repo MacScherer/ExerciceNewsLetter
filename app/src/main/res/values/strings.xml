@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsLetter</string>
+    <string name="todo">TODO</string>
+    <string name="gato_tonto_mas_gente_boa">Gato tonto mas gente boa</string>
+    <string name="_03_01_1997">03/01/1997</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_praesent_condimentum_dapibus_est_quis_ultrices_sed_vitae_quam_finibus_accumsan_tortor_gravida_tristique_ligula_aliquam_rhoncus_sollicitudin_ex_a_suscipit_donec_ornare_lectus_a_sodales_elementum_metus_justo_porta_erat_non_faucibus_purus_urna_in_metus_maecenas_non_velit_viverra_sodales_nibh_vitae_dictum_mauris_donec_in_quam_eu_est_egestas_elementum_a_a_nibh_mauris_pharetra_leo_et_elit_sollicitudin_sollicitudin_integer_a_dolor_ac_enim_pellentesque_facilisis_vitae_vitae_arcu_donec_elit_neque_ultricies_eu_auctor_eget_laoreet_imperdiet_eros">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dapibus est quis ultrices. Sed vitae quam finibus, accumsan tortor gravida, tristique ligula. Aliquam rhoncus sollicitudin ex a suscipit. Donec ornare, lectus a sodales elementum, metus justo porta erat, non faucibus purus urna in metus. Maecenas non velit viverra, sodales nibh vitae, dictum mauris. Donec in quam eu est egestas elementum a a nibh. Mauris pharetra leo et elit sollicitudin sollicitudin. Integer a dolor ac enim pellentesque facilisis vitae vitae arcu. Donec elit neque, ultricies eu auctor eget, laoreet imperdiet eros.</string>
+    <string name="macscherer">MacScherer</string>
+    <string name="pr_ximo">PRÓXIMO</string>
+    <string name="voltar">VOLTAR</string>
+    <string name="anterior">ANTERIOR</string>
+</resources>
